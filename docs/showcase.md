@@ -23,3 +23,7 @@ Have you used Meyda in your project? We're interested in seeing where Meyda ends
 * [Kaos Logo Generator](https://lusion.co/work/kaos-logo-generator/) by [Lusion](https://lusion.co/)
 
 > A system that allows web users to generate their unique logos using their voices
+
+* [Astraltrip](https://astraltrip.gl)
+
+> Astraltrip is a full featured IDE for the GLSL shading languaje with MIDI support and timeline based, letting the user easily create linear experiences. Thanks to meyda.js, the generated visuals respond to the audio features of any song.
